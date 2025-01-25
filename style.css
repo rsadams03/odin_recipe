@@ -1,0 +1,33 @@
+body {
+    background-color: #dbd4be;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a,
+a:link {
+    text-decoration: none;
+    color: black;   
+}
+
+a:hover {
+    color: olive;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+
+.recipe-links {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 5px;
+    line-height: 175%;
+    list-style-type: none;
+}
+
+.nav {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style-type: none;
+}
